@@ -29,7 +29,7 @@
 
 
 <br><br>
-<h2>채팅창</h2>
+<h2>채팅방</h2>
 <img width="765" alt="스크린샷 2021-07-02 오후 8 44 02" src="https://user-images.githubusercontent.com/84225477/124269756-424e8c80-db76-11eb-9c9b-252cd3e3d482.png">
 
 -호스트 주소 및 포트 번호와 함께 입장 성공 메시지 출력
