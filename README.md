@@ -21,35 +21,37 @@
 <br><br>
 <hr>
 <h2>로그인</h2>
+<img width="761" alt="스크린샷 2021-07-02 오후 8 42 41" src="https://user-images.githubusercontent.com/84225477/124269624-13d0b180-db76-11eb-8b24-2dd11dd1c8a7.png">
 
-<img width="750" alt="스크린샷 2021-07-02 오후 8 28 53" src="https://user-images.githubusercontent.com/84225477/124268171-24802800-db74-11eb-9aeb-3f61bbc03f35.png">
 호스트 주소와 닉네임을 입력하여 입장
+
 
 
 
 <br><br>
 <h2>채팅창</h2>
-<img width="749" alt="스크린샷 2021-07-02 오후 8 29 39" src="https://user-images.githubusercontent.com/84225477/124268254-3d88d900-db74-11eb-83c1-0f711a9728db.png">
--올바름 호스트 주소 입력시 호스트 주소 및 포트번호와 함께 입장 성공 메시지 출력
+<img width="765" alt="스크린샷 2021-07-02 오후 8 44 02" src="https://user-images.githubusercontent.com/84225477/124269756-424e8c80-db76-11eb-9c9b-252cd3e3d482.png">
+
+-호스트 주소 및 포트 번호와 함께 입장 성공 메시지 출력
 <br> 
 -우측 하단에 입장자의 정보 표시
 <br>
--로그아웃버튼활성화 
-
-
+-로그 아웃 버튼 활성화 
 
 <br><br>
-<img width="1239" alt="스크린샷 2021-07-02 오후 8 34 51" src="https://user-images.githubusercontent.com/84225477/124268794-f7804500-db74-11eb-8c0e-c3148d862a3a.png">
-새로운 유저 입장시 새로운 유저의 정보를 기존 유저의 채팅창에 출력
+<img width="1282" alt="스크린샷 2021-07-02 오후 8 46 27" src="https://user-images.githubusercontent.com/84225477/124270026-9a858e80-db76-11eb-9a7f-f039ace3a3b9.png">
+
+새로운 유저 입장 시 새로운 유저의 정보를 기존 유저의 채팅창에 출력
 
 <br><br>
-<h2>계산 결과</h2>
 <img width="797" alt="계산 결과" src="https://user-images.githubusercontent.com/84225477/122683005-90d75f00-d237-11eb-8356-54a3d6116949.png">
 
-사용자가 선택한 조건에 맞는 계산 값을 새로운 패널에 넣어 생성 
+여러 명의 사용자가 동시 접속하여 실시간 채팅
 
 <br><br>
-<h2>조정대상지역</h2>
-<img width="798" alt="조정대상지역" src="https://user-images.githubusercontent.com/84225477/122682999-7bfacb80-d237-11eb-97c4-6492743bdaa8.png">
+<img width="1292" alt="스크린샷 2021-07-02 오후 8 51 19" src="https://user-images.githubusercontent.com/84225477/124270523-46c77500-db77-11eb-80c7-fbf276c059f3.png">
 
-조정대상지역 보기 버튼 클릭 시 전국의 조정대상 구역을 보여주는 페이지 생성
+-로그아웃 시 기존 사용자에게 퇴장 메시지 출력
+-로그아웃 버튼 비활성화
+-퇴장한 사용자의 정보 초기화
+
